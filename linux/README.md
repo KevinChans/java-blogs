@@ -1,5 +1,5 @@
 #ArchLinux安装过程详解
-![Arch](<http://s7.51cto.com/wyfs02/M02/75/64/wKioL1Y4WoHRz_r-AABWaapAZtw488.jpg>)
+![Arch](<https://raw.githubusercontent.com/KevinChans/java-blogs/master/linux/arch_icon.jpg>)
 ###一、简介：
 Linux有很多个发行版本，有免费的也有商业版本的，每个人可以根据自己的需求不同选择不同的发行版本。Debain和RedHat商业版本稳定性非常好，适合用于服务器，Fedora是RedHat新技术的试验场，适合桌面使用稳定性不是很好，bug比较多；而Ubuntu安装简单上手较快，适合新手，ubuntu在服务器、云计算，甚至是移动端都有广泛的应用；如果想深入的了解整个系统的安装过程，包括磁盘分区、设置语言、网络、字体、时区、图形化界面的安装，推荐使用ArchLinux和Gentoo，折腾之中会有不小的收获，通过安装和使用Linux你能够对各种配置文件有一定的了解。这篇文章写在我的第三次安装Arch之前，写出来分享给大家，话不多说开始！    
 ###二、安装VirtualBox
